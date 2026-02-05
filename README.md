@@ -29,4 +29,3 @@
   </a> 
 </div>
 
-<img src="https://raw.githubusercontent.com/maclarapaulini/maclarapaulini/output/snake.svg" alt="Snake animation" />
