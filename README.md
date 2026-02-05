@@ -3,7 +3,8 @@
 ##  👩🏻‍💻 About Me:
 **`Backend Developer`**
 <br>
-- From Brazil<br>Information Systems student at UNICAMP
+- From Brazil
+- Information Systems student at UNICAMP
 - Focused on learning and improving
 - Interested in Artificial Intelligence & scalable systems<br>
 
